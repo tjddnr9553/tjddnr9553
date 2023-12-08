@@ -1,6 +1,6 @@
 # 👋Hi
 
-* ## NAME : 정광배
+* ## NAME : 차성욱
 
 ![iblug's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjddnr9553&show_icons=true&theme=highcontrast)
 
