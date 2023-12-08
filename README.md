@@ -4,7 +4,7 @@
 
 ![iblug's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjddnr9553&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjddnr9553&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjddnr9553&layout=donut)](https://github.com/tjddnr9553/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjddnr9553)](https://solved.ac/tjddnr9553)
 
