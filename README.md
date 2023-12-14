@@ -2,7 +2,7 @@
 
 * ## NAME : 차성욱
 
-![iblug's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjddnr9553&show_icons=true&theme=highcontrast)
+![tjddnr9553's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjddnr9553&show_icons=true&theme=highcontrast)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjddnr9553&layout=compact&theme=dark"/>
 
