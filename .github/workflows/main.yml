@@ -19,7 +19,7 @@ jobs:
         run: |
           git config user.name tjddnr9553
           git config user.email tjddnr9553@naver.com
-          git pull origin main
+          git pull main tjddnr9553
           git add -A .
           git commit -m "generated"
-          git push --force origin main
+          git push --force main tjddnr9553
