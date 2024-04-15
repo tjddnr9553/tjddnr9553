@@ -1,4 +1,16 @@
-* ## NAME : 차성욱
+<div align="center">
+
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=_hexcode&text=SungWook%20Cha's%20GitHub%20👋&fontColor=ffffff&animation=blinking&fontSize=40&fontAlignY=50&fontAlign=50&height180)
+
+/*<h1>
+:dromedary_camel: 의 코딩 생존기!
+</h1>*/
+
+:punch: Spring, React, 그리고 pintOS를 비롯한 전반적인 CS 지식을 공부중입니다!
+
+:shipit: 백준 골드1을 목표로 알고리즘 공부중!
+
+</div>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
